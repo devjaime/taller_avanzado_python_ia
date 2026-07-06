@@ -1,22 +1,19 @@
-# Taller Avanzado Python IA
+# Taller Avanzado de Python para IA
 
-Curso práctico de Python avanzado enfocado en Inteligencia Artificial y Machine Learning.
+Curso práctico de Python avanzado enfocado en Inteligencia Artificial, Machine Learning y Deep Learning con proyectos reales.
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![AI](https://img.shields.io/badge/AI-Machine%20Learning-green.svg)
-![Stars](https://img.shields.io/badge/Stars-3-orange)
+## Stack
 
-## 📚 Descripción
+- **Lenguaje:** Python
+- **Enfoque:** Machine Learning Avanzado, Deep Learning, Proyectos reales de IA
+- **Nivel:** Avanzado
 
-Este repositorio contiene materiales y ejercicios del taller avanzado de Python aplicado a Inteligencia Artificial. Aprende a construir modelos de ML, redes neuronales y pipelines de datos.
+## Requisitos
 
-## 🛠️ Stack
+- Python 3.9+
+- Experiencia previa en Python y ML
 
-- **Lenguaje:** Python 3.11+
-- **Librerías:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
-- **Entorno:** Jupyter Notebooks
-
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clonar el repositorio
@@ -31,30 +28,29 @@ venv\Scripts\activate     # Windows
 # Instalar dependencias
 pip install -r requirements.txt
 
-# Ejecutar Jupyter
+# Ejecutar proyectos avanzados
 jupyter notebook
 ```
 
-## 📖 Contenido
+## Contenido del Curso
 
-- Fundamentos de Machine Learning
-- Redes neuronales con PyTorch/TensorFlow
-- Procesamiento de datos para IA
-- Deployment de modelos
-- Proyectos prácticos
+- Deep Learning con PyTorch/TensorFlow
+- Redes Neuronales Avanzadas (CNN, RNN, Transformers)
+- NLP y modelos de lenguaje
+- Computer Vision
+- Proyectos de IA en producción
+- Optimización y deployment de modelos
 
-## 🤝 Contribuir
+## Contributing
 
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcion`)
-3. Commit tus cambios (`git commit -m 'Agrega nueva función'`)
-4. Push a la rama (`git push origin feature/nueva-funcion`)
+¡Contribuciones bienvenidas! Para aportar:
+
+1. Haz fork del repositorio
+2. Crea una branch para tu feature (`git checkout -b feature/nueva-feature`)
+3. Commit tus cambios (`git commit -m 'feat: agregar proyecto X'`)
+4. Push a la branch (`git push origin feature/nueva-feature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
+## License
 
-MIT License - ver archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-⭐ Si te fue útil, dale star al repositorio
+MIT © devjaime
